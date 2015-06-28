@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/rind/AndroidStudioProjects/NetworkConnect/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/home/rind/AndroidStudioProjects/NetworkConnect/Application/build/intermediates/pre-dexed/debug/classes-21041c7893fab4639b1ef381508e87c81d11af85.jar" />
+    </item>
+    <item
+        jar="/home/rind/AndroidStudioProjects/NetworkConnect/Application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9742ced04aafd9ac97dd2c66c1aa0e32d2ae7e54">
+        <dex dex="/home/rind/AndroidStudioProjects/NetworkConnect/Application/build/intermediates/pre-dexed/debug/classes-039d69703e2824d6e98008b79919187edd412a4b.jar" />
+    </item>
+    <item
+        jar="/home/rind/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/home/rind/AndroidStudioProjects/NetworkConnect/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-7962c442c879b97599c9f1ae1d694a6f397a2f34.jar" />
+    </item>
+    <item
+        jar="/home/rind/AndroidStudioProjects/NetworkConnect/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="/home/rind/AndroidStudioProjects/NetworkConnect/Application/build/intermediates/pre-dexed/debug/classes-f8e7849a2cbe08970bb66833a0c9a33e9128805b.jar" />
+    </item>
+    <item
+        jar="/home/rind/AndroidStudioProjects/NetworkConnect/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/home/rind/AndroidStudioProjects/NetworkConnect/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-3b7ffda2f7c40c72b83cacbe579fa1a26d134f08.jar" />
+    </item>
+
+</items>
