@@ -121,7 +121,7 @@ public class MainActivity extends FragmentActivity {
 
         try {
             stream = downloadUrl(urlString);
-            str = readIt(stream, 9);
+            str = readIt(stream, 8);
        } finally {
            if (stream != null) {
                stream.close();
