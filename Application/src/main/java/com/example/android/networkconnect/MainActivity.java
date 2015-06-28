@@ -121,7 +121,7 @@ public class MainActivity extends FragmentActivity {
 
         try {
             stream = downloadUrl(urlString);
-            str = readIt(stream, 10);
+            str = readIt(stream, 888);
        } finally {
            if (stream != null) {
                stream.close();
@@ -141,8 +141,8 @@ public class MainActivity extends FragmentActivity {
         // BEGIN_INCLUDE(get_inputstream)
         URL url = new URL(urlString);
         HttpURLConnection conn = (HttpURLConnection) url.openConnection();
-        conn.setReadTimeout(10000 /* milliseconds */);
-        conn.setConnectTimeout(15000 /* milliseconds */);
+        conn.setReadTimeout(8000 /* milliseconds */);
+        conn.setConnectTimeout(10000 /* milliseconds */);
         conn.setRequestMethod("GET");
         conn.setDoInput(true);
         // Start the query
